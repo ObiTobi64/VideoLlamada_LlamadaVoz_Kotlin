@@ -3,4 +3,7 @@
     <string name="userId">Crea un usuario</string>
 
     <string name="btnLogin">Ingresar</string>
+
+    <string name="tvNameUserId">Hola ¿A quien desea llamar?</string>
+    <string name="etNameUserId">Ingrese el id del usuario</string>
 </resources>
